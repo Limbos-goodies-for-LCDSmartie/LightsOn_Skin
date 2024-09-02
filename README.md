@@ -1,4 +1,4 @@
 # LightsOn_Skin
-![Skin Perwview](https://github.com/Limbos-goodies-for-LCDSmartie/LightsOn_Skin/blob/main/LightsOn/Skin_Preview.png?raw=true)
+![Skin_Preview](https://github.com/user-attachments/assets/8c68d372-21c3-42c6-9c8e-4919347e60a6)
 
-A bright skin doe LCD Smartie
+A happy skin for LCD Smartie
